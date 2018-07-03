@@ -11,3 +11,4 @@
 ## 树
 * NTA 一种不确定树构成的信号装置	[来源](https://blog.csdn.net/xyzso1z/article/details/70336312)
 * Trees Made to Order 编号二叉树	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1062)
+* Code the Tree 依次删除最小的叶子结点	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1097)
