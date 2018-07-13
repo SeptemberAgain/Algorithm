@@ -3,7 +3,8 @@
 
 ## 栈
 * Anagrams By Stack 给出回文构词法的堆栈实现	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1004)
-* Matrix Chain Multiplication 矩阵乘法问题    	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1094)
+* Matrix Chain Multiplication 矩阵乘法问题	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1094)
+* Parencodings 规范括号字符串	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1016)
 
 ## 递归
 * Generate Parentheses N对括号所有合法的组合	[来源](https://blog.csdn.net/u014529413/article/details/39119273)
