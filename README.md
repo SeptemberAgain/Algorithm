@@ -17,3 +17,6 @@
 * Code the Tree 依次删除最小的叶子结点	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1097)
 * Unscrambling Images 四叉树图形加密	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1156)
 * Trees on the level 分层树	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1167)
+
+## Map
+* Let the Balloon Rise 统计最多的气球数	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1167)
