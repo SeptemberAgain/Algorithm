@@ -20,3 +20,6 @@
 
 ## Map
 * Let the Balloon Rise 统计最多的气球数	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=2104)
+
+## 哈希表
+* Jewels and Stones 珠宝和石头	[来源](https://leetcode.com/problems/jewels-and-stones/solution/)
