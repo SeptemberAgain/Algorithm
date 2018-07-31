@@ -25,6 +25,7 @@
 ## 哈希表
 * Jewels and Stones 珠宝和石头	[来源](https://leetcode.com/problems/jewels-and-stones/description/)
 * Two Sum 两数之和	[来源](https://leetcode.com/problems/two-sum/description/)
+* Longest Substring Without Repeating Characters 最长无重复字符的子串	[来源](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
 
 ## 链表
 * Add Two Numbers 链表相加	[来源](https://leetcode.com/problems/add-two-numbers/description/)
