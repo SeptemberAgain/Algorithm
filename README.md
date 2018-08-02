@@ -1,6 +1,9 @@
 # Algorithm
 每日一题 打好数据结构和算法基础
 
+## 数组
+* Median of Two Sorted Arrays 求两个有序数组的中位数	[来源](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+
 ## 栈
 * Anagrams By Stack 给出回文构词法的堆栈实现	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1004)
 * Matrix Chain Multiplication 矩阵乘法问题	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1094)
