@@ -32,3 +32,6 @@
 
 ## 链表
 * Add Two Numbers 链表相加	[来源](https://leetcode.com/problems/add-two-numbers/description/)
+
+## 算法
+* Longest Palindromic Substring Manacher算法求最长的回文子串 [来源](https://leetcode.com/problems/longest-palindromic-substring/description/)
