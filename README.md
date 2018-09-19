@@ -36,3 +36,7 @@
 ## 字符串
 * Longest Palindromic Substring Manacher算法求最长的回文子串 [来源](https://leetcode.com/problems/longest-palindromic-substring/description/)
 * ZigZag Conversion “Z”形转换	[来源](https://leetcode.com/problems/zigzag-conversion/description/)
+* Reverse Integer 反转整数	[来源](https://leetcode-cn.com/problems/reverse-integer/description/)
+* String To Integer 字符串转整数	[来源](https://leetcode-cn.com/problems/string-to-integer-atoi/description/)
+* Palindrome Number 回文数	[来源](https://leetcode-cn.com/problems/palindrome-number/description/)
+* Regular Expression Matching 正则表达式	[来源](https://leetcode-cn.com/problems/regular-expression-matching/description/)
