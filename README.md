@@ -3,7 +3,8 @@
 
 ## 数组
 * Median of Two Sorted Arrays 求两个有序数组的中位数	[来源](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
-
+* Joseph Problem 约瑟夫问题
+[来源](https://blog.csdn.net/weixin_38214171/article/details/80352921)
 ## 栈
 * Anagrams By Stack 给出回文构词法的堆栈实现	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1004)
 * Matrix Chain Multiplication 矩阵乘法问题	[来源](http://acm.zju.edu.cn/onlinejudge/showProblem.do?problemCode=1094)
